@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Dinusha Jayasuriya</h1>
 <h3 align="center"> An undergraduate Security Analyst/Cyber Security Engineer from Sri Lanka..</h3>
-<img aligh="right" alt="coding" width="300"src="https://media4.giphy.com/avatars/ucfcyber/rT7KnJJ811Cr.gif">
+<center> <img align="right" alt="coding" width="300"src="https://media4.giphy.com/avatars/ucfcyber/rT7KnJJ811Cr.gif"> </center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinusha-jayasuriya&label=Profile%20views&color=0e75b6&style=flat" alt="dinusha-jayasuriya" /> </p>
 
