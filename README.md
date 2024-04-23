@@ -1,4 +1,4 @@
-![MasterHead](https://hellofuture.orange.com/app/uploads/2021/04/home-HF_GA-1920x1080-CYBERSECU.gif)
+![MasterHead](https://www.pulsetechnology.com/hs-fs/hubfs/Cybersecurity%20Graphic.gif?width=1600&height=511&name=Cybersecurity%20Graphic.gif)
 
 <h1 align="center">Hi 👋, I'm Dinusha Jayasuriya</h1>
 <h3 align="center"> An undergraduate Security Analyst/Cyber Security Engineer from Sri Lanka..</h3>
