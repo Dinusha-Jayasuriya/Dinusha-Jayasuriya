@@ -1,6 +1,4 @@
-### Hi there 👋
-
-[!MasterHead](https://www.pulsetechnology.com/hs-fs/hubfs/Cybersecurity%20Graphic.gif?width=1600&height=511&name=Cybersecurity%20Graphic.gif)
+[!MasterHead](https://www.pwc.com/mt/en/services/cyber-security/cyber-attack-.gif)
 
 <h1 align="center">Hi 👋, I'm Dinusha Jayasuriya</h1>
 <h3 align="center"> An undergraduate Security Analyst/Cyber Security Engineer from Sri Lanka..</h3>
