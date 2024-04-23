@@ -1,15 +1,14 @@
-[!MasterHead](https://www.pwc.com/mt/en/services/cyber-security/cyber-attack-.gif)
+![MasterHead](https://hellofuture.orange.com/app/uploads/2021/04/home-HF_GA-1920x1080-CYBERSECU.gif)
 
 <h1 align="center">Hi 👋, I'm Dinusha Jayasuriya</h1>
 <h3 align="center"> An undergraduate Security Analyst/Cyber Security Engineer from Sri Lanka..</h3>
-<img aligh=right" alt="coding" width="400" scr="https://media4.giphy.com/avatars/ucfcyber/rT7KnJJ811Cr.gif">
-
+<img aligh=right" alt="coding" width="400"src="https://media4.giphy.com/avatars/ucfcyber/rT7KnJJ811Cr.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinusha-jayasuriya&label=Profile%20views&color=0e75b6&style=flat" alt="dinusha-jayasuriya" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🎓 I’m currently studying on [Sri Lanka Institute of Information Technology](https://www.sliit.lk/) 
+- 🎓 I’m currently studying at [Sri Lanka Institute of Information Technology](https://www.sliit.lk/) 
 
 - 📫 How to reach me **nirmaljy1000@gmail.com**
 
@@ -30,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinusha-jayasuriya&show_icons=true&locale=en" alt="dinusha-jayasuriya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinusha-jayasuriya&" alt="dinusha-jayasuriya" /></p>
-
